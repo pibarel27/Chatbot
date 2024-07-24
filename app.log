@@ -1,0 +1,462 @@
+2024-06-25 10:05:37,950 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:05:37,950 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:05:37,950 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:05:39,165 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:05:39,953 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:05:40,255 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:05:40,560 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:05:41,319 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:05:42,101 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:05:44,025 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:05:44,498 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6148
+2024-06-25 10:05:44,811 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6148
+2024-06-25 10:05:45,121 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:05:48,007 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /deepset/roberta-base-squad2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:05:48,483 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /deepset/roberta-base-squad2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:05:49,702 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /deepset/roberta-base-squad2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:05:50,436 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /facebook/bart-large-xsum/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:05:50,958 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /facebook/bart-large-xsum/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:05:50,964 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:05:51,547 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /facebook/bart-large-xsum/resolve/main/model.safetensors HTTP/11" 404 0
+2024-06-25 10:05:54,479 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /facebook/bart-large-xsum/resolve/main/generation_config.json HTTP/11" 200 0
+2024-06-25 10:05:54,836 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /facebook/bart-large-xsum/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:06:15,085 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:06:15,085 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:06:15,092 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:06:16,163 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:06:17,193 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:06:17,524 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:06:17,965 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:06:18,296 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:06:18,800 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:06:20,141 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:06:20,888 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6148
+2024-06-25 10:06:21,203 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6148
+2024-06-25 10:06:21,567 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:06:25,935 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:06:25,935 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:06:25,935 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:06:25,950 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:06:25,950 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:06:25,950 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:06:28,723 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:06:34,002 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:06:34,097 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:06:51,693 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:06:51,693 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:06:51,699 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:06:52,263 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:06:52,615 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:06:53,102 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:06:53,102 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:06:53,102 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:06:53,142 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:06:53,425 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:06:53,702 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:06:53,814 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:06:54,143 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:06:54,541 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:06:54,659 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:06:55,363 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:06:55,420 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6148
+2024-06-25 10:06:55,966 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6148
+2024-06-25 10:06:56,017 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:06:56,327 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:06:56,329 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:06:57,308 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:06:57,908 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:06:58,273 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6148
+2024-06-25 10:06:59,247 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6148
+2024-06-25 10:06:59,562 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:07:01,642 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:07:01,648 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:07:01,649 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:07:01,649 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:07:01,653 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:07:01,653 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:07:02,361 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:07:04,186 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:07:04,297 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:07:04,309 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:07:04,316 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:07:04,317 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:07:04,318 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:07:04,318 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:07:04,320 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:07:05,544 - __main__ - INFO - Generating answer to the question...
+2024-06-25 10:07:12,838 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:07:14,634 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:07:14,839 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:07:40,882 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:07:40,882 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:07:40,900 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:07:40,912 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:07:40,917 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:07:40,918 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:07:41,347 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:07:41,697 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:07:41,841 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:07:42,001 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:07:42,128 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:07:42,310 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:07:42,649 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:07:42,874 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:07:43,072 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:07:43,199 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:07:43,576 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:07:43,844 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:07:44,299 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6148
+2024-06-25 10:07:44,315 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:07:45,063 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6148
+2024-06-25 10:07:45,217 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:07:45,386 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:07:46,021 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6148
+2024-06-25 10:07:46,462 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6148
+2024-06-25 10:07:46,770 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:07:50,002 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:07:50,009 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:07:50,009 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:07:50,009 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:07:50,015 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:07:50,015 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:07:50,927 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:07:55,579 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:07:55,736 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:07:55,755 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:07:55,769 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:07:55,770 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:07:55,803 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:07:55,807 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:07:55,807 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:07:56,923 - __main__ - INFO - Generating answer to the question...
+2024-06-25 10:08:03,832 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:08:05,912 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:08:05,999 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:14:32,024 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:14:32,024 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:14:32,032 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:14:33,209 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:14:34,028 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:14:34,318 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:14:35,149 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:14:35,441 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:14:35,745 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:14:36,589 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:14:37,092 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:14:37,402 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:14:37,905 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:15:10,475 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:15:10,475 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:15:10,475 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:15:10,913 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:15:11,234 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:15:11,532 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:15:11,847 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:15:12,329 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:15:12,630 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:15:13,243 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:15:13,764 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:15:14,132 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:15:14,475 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:15:17,748 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:15:17,754 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:15:17,754 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:15:17,754 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:15:17,760 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:15:17,760 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:15:18,619 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:15:20,666 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:15:20,769 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:17:44,137 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:17:44,138 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:17:44,144 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:17:44,156 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:17:44,156 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:17:44,162 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:17:44,715 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:44,795 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:45,051 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:17:45,176 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:17:45,358 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:17:45,472 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:17:45,642 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:45,761 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:45,929 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:17:46,053 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:17:46,361 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:46,613 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:46,917 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:17:47,010 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:17:47,372 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:17:47,372 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:17:47,680 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:17:47,680 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:17:48,084 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:48,084 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:50,205 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:17:50,208 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:17:50,208 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:17:50,208 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:17:50,212 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:17:50,212 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:17:51,107 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:17:52,192 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:17:52,205 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:17:52,207 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:17:52,671 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:53,239 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:17:53,717 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:17:53,717 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:17:53,733 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:17:53,940 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:17:54,245 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:54,261 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:54,561 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:17:54,664 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:17:55,100 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:17:55,100 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:17:55,486 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:17:55,486 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:55,818 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:56,087 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:17:56,238 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:17:56,628 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:17:56,628 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:17:56,628 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:17:56,842 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:17:56,991 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:57,120 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:57,132 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:17:57,410 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:17:57,410 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:17:57,445 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:57,462 - __main__ - ERROR - Error loading models: [E050] Can't find model 'en_core_web_sm'. It doesn't seem to be a Python package or a valid path to a data directory.
+2024-06-25 10:17:57,770 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:17:58,113 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:17:58,202 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:17:58,499 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:17:58,893 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:17:58,906 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:59,300 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:17:59,300 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:17:59,318 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:17:59,365 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:17:59,365 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:17:59,373 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:17:59,510 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:17:59,870 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:00,235 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:18:00,235 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:00,235 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:18:00,731 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:18:00,731 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:18:01,048 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:18:01,145 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:18:01,145 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:18:01,152 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:18:01,440 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:18:01,570 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:18:01,576 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:01,619 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:01,843 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:01,904 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:18:01,940 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:18:01,940 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:02,577 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:02,577 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:18:02,717 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:18:02,914 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:03,088 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:03,198 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:18:03,499 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:05,982 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:18:05,982 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:18:06,439 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:18:06,439 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:18:06,835 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:18:07,182 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:18:07,182 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:18:07,182 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:18:07,509 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:07,509 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:07,509 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:18:08,253 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:28,186 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:18:28,186 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:18:28,192 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:18:29,345 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:30,177 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:18:30,681 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:18:31,496 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:31,817 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:18:32,151 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:32,892 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:18:33,281 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:18:34,160 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:18:34,462 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:35,604 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:18:35,620 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:18:35,620 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:18:35,620 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:18:35,627 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:18:35,627 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:18:36,374 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:18:38,362 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:18:38,465 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:18:54,843 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:18:54,843 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:18:54,843 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:18:54,883 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:18:54,883 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:18:54,883 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:18:55,633 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:55,636 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:55,976 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:18:55,976 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:18:56,268 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:18:56,285 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:18:56,689 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:56,689 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:18:57,208 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:18:57,208 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:18:57,498 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:57,512 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:57,981 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:18:58,441 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:18:58,441 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:18:58,749 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:18:58,790 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:18:59,115 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:18:59,115 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:18:59,567 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:19:02,991 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:19:02,991 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:19:02,998 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:19:02,998 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:19:02,998 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:19:02,998 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:19:03,832 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:19:05,876 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:19:05,994 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:19:05,996 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:19:06,003 - __main__ - INFO - Saving uploaded file: components of compiuter.pdf
+2024-06-25 10:19:06,005 - __main__ - INFO - File saved successfully: uploads\components of compiuter.pdf
+2024-06-25 10:19:06,005 - __main__ - INFO - Analyzing file: components of compiuter.pdf
+2024-06-25 10:19:06,005 - __main__ - INFO - Reading file content: components of compiuter.pdf
+2024-06-25 10:19:06,005 - __main__ - INFO - Parsing text from PDF: uploads\components of compiuter.pdf
+2024-06-25 10:19:06,638 - __main__ - INFO - Generating answer to the question...
+2024-06-25 10:19:13,769 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:19:15,739 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:19:15,834 - __main__ - INFO - File analysis completed: components of compiuter.pdf
+2024-06-25 10:22:34,326 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:22:34,326 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:22:34,334 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:22:35,124 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:22:35,423 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:22:35,719 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:22:36,351 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:22:36,654 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:22:36,939 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:22:37,999 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:22:38,600 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:22:39,274 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:22:39,820 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:22:42,384 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:22:42,384 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:22:42,387 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:22:42,888 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:22:43,206 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:22:43,504 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:22:43,992 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:22:44,337 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:22:45,217 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:22:46,224 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:22:46,976 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:22:47,291 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:22:47,921 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:22:50,801 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:22:50,801 - __main__ - INFO - Saving uploaded file: The Manipur Technical University.pdf
+2024-06-25 10:22:50,801 - __main__ - INFO - File saved successfully: uploads\The Manipur Technical University.pdf
+2024-06-25 10:22:50,801 - __main__ - INFO - Analyzing file: The Manipur Technical University.pdf
+2024-06-25 10:22:50,801 - __main__ - INFO - Reading file content: The Manipur Technical University.pdf
+2024-06-25 10:22:50,812 - __main__ - INFO - Parsing text from PDF: uploads\The Manipur Technical University.pdf
+2024-06-25 10:22:50,828 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:22:51,457 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:22:51,473 - __main__ - INFO - File analysis completed: The Manipur Technical University.pdf
+2024-06-25 10:23:47,925 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:23:47,925 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:23:47,925 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:23:47,929 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:23:47,929 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:23:47,931 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:23:48,546 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:23:48,580 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:23:48,864 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:23:49,199 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:23:49,246 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:23:49,487 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:23:49,552 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:23:49,790 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:23:49,839 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:23:50,100 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:23:50,147 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:23:50,462 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:23:50,620 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:23:50,891 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:23:51,424 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:23:51,541 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:23:51,742 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:23:51,936 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:23:52,042 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:23:52,242 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:23:57,169 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:23:57,174 - __main__ - INFO - Saving uploaded file: The Manipur Technical University.pdf
+2024-06-25 10:23:57,174 - __main__ - INFO - File saved successfully: uploads\The Manipur Technical University.pdf
+2024-06-25 10:23:57,174 - __main__ - INFO - Analyzing file: The Manipur Technical University.pdf
+2024-06-25 10:23:57,179 - __main__ - INFO - Reading file content: The Manipur Technical University.pdf
+2024-06-25 10:23:57,181 - __main__ - INFO - Parsing text from PDF: uploads\The Manipur Technical University.pdf
+2024-06-25 10:23:57,197 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:23:57,865 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:23:57,872 - __main__ - INFO - File analysis completed: The Manipur Technical University.pdf
+2024-06-25 10:23:57,880 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:23:57,882 - __main__ - INFO - Saving uploaded file: The Manipur Technical University.pdf
+2024-06-25 10:23:57,884 - __main__ - INFO - File saved successfully: uploads\The Manipur Technical University.pdf
+2024-06-25 10:23:57,884 - __main__ - INFO - Analyzing file: The Manipur Technical University.pdf
+2024-06-25 10:23:57,884 - __main__ - INFO - Reading file content: The Manipur Technical University.pdf
+2024-06-25 10:23:57,884 - __main__ - INFO - Parsing text from PDF: uploads\The Manipur Technical University.pdf
+2024-06-25 10:23:57,896 - __main__ - INFO - Generating answer to the question...
+2024-06-25 10:23:58,988 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:23:59,446 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:23:59,454 - __main__ - INFO - File analysis completed: The Manipur Technical University.pdf
+2024-06-25 10:27:11,547 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-06-25 10:27:11,547 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-06-25 10:27:11,549 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-06-25 10:27:12,208 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:27:12,962 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-06-25 10:27:13,253 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-06-25 10:27:13,544 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-06-25 10:27:13,860 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-06-25 10:27:14,157 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:27:14,897 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-06-25 10:27:15,507 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6134
+2024-06-25 10:27:16,112 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6134
+2024-06-25 10:27:16,738 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /dbmdz/bert-large-cased-finetuned-conll03-english/resolve/main/config.json HTTP/11" 200 0
+2024-06-25 10:27:18,877 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:27:18,881 - __main__ - INFO - Saving uploaded file: The Manipur Technical University.pdf
+2024-06-25 10:27:18,881 - __main__ - INFO - File saved successfully: uploads\The Manipur Technical University.pdf
+2024-06-25 10:27:18,881 - __main__ - INFO - Analyzing file: The Manipur Technical University.pdf
+2024-06-25 10:27:18,881 - __main__ - INFO - Reading file content: The Manipur Technical University.pdf
+2024-06-25 10:27:18,881 - __main__ - INFO - Parsing text from PDF: uploads\The Manipur Technical University.pdf
+2024-06-25 10:27:18,904 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:27:19,348 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:27:19,348 - __main__ - INFO - File analysis completed: The Manipur Technical University.pdf
+2024-06-25 10:27:19,356 - __main__ - INFO - Cleaning temporary files...
+2024-06-25 10:27:19,362 - __main__ - INFO - Saving uploaded file: The Manipur Technical University.pdf
+2024-06-25 10:27:19,364 - __main__ - INFO - File saved successfully: uploads\The Manipur Technical University.pdf
+2024-06-25 10:27:19,364 - __main__ - INFO - Analyzing file: The Manipur Technical University.pdf
+2024-06-25 10:27:19,364 - __main__ - INFO - Reading file content: The Manipur Technical University.pdf
+2024-06-25 10:27:19,364 - __main__ - INFO - Parsing text from PDF: uploads\The Manipur Technical University.pdf
+2024-06-25 10:27:19,383 - __main__ - INFO - Generating answer to the question...
+2024-06-25 10:27:19,668 - __main__ - INFO - Extracting named entities...
+2024-06-25 10:27:20,134 - __main__ - INFO - Extracting keywords...
+2024-06-25 10:27:20,144 - __main__ - INFO - File analysis completed: The Manipur Technical University.pdf
